@@ -1,0 +1,13 @@
+Infosys:
+how to make angular app secure
+what is segment in angular
+http interceptor
+pre-processor? diff between scss and less
+web workers html5
+angular 2 https
+how to deploy service on server and how to call it
+why angular 2 why not 1
+angular cli
+diff between xml and json
+restfull web service
+Global error handling in angular 2
