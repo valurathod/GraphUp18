@@ -11,3 +11,45 @@ angular cli
 diff between xml and json
 restfull web service
 Global error handling in angular 2
+
+**JS
+Spread operator 
+Array map
+Promises 
+Difference between new constuctor fun and Object.create
+Design pattern 
+difference between module and singleton design pattern
+How to add custom events in JS
+How inheritance works in JS
+
+**Angular 1
+Components in Angular 1.5 
+Dependency injection
+What if I use same service in two controller is it work as singleton or not
+What is Transclude
+Unit testing in angular 1
+stateProvider vs routeProvider
+How to achieve promises in angular 1
+types of directives in angular 1
+
+**Angular 2
+Observables in angular 2
+Zonejs in angular 2
+Tools for unit testing in angular 2
+Custom directives
+Custom pipes
+How lazy loading works in angular 2
+Rxjs operators in angular 2
+How to iterate array in angular 2
+ngIf vs ngShow in angular 2
+what is karma and jasmine in angular 2
+Communication between two component if there is no parent child relationship
+forRoot and forChild
+
+**CSS
+Position
+how to set expiration date in session storage and localstorage
+Difference between media quary and bootstrap
+pseudo classes in css
+Grid system of bootstrap
+Offset in bootstrap
